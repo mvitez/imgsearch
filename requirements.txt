@@ -1,0 +1,6 @@
+Pillow
+sentence_transformers
+faiss-cpu
+numpy
+streamlit
+fastapi
